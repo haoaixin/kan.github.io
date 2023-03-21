@@ -22,6 +22,11 @@ body{
     letter-spacing: 15px;
 }
 
+a {
+    font-size: 30px;
+}
+
+
 /* 定义动画 */
 @keyframes bgAnimation {
     0%{
